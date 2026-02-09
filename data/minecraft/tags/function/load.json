@@ -7,6 +7,8 @@
 		"game:global/load",
 		"monsters:global/load",
 		"player_hazmat:global/load",
-		"weapons:global/load"
+		"weapons:global/load",
+		"lsp:init",
+		"tl:init"
 	]
 }
