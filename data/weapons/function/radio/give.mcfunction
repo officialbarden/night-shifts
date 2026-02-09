@@ -1,0 +1,1 @@
+give @s poisonous_potato[item_name='Radio',consumable={animation: "block", consume_seconds: 99999, has_consume_particles: false}, food={nutrition:0, saturation:0, can_always_eat: TRUE}, custom_data={weapon:TRUE,weapon_id:3}, custom_model_data={floats:[1800]}]

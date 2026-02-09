@@ -1,0 +1,1 @@
+function game:global/store_values

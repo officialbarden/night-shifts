@@ -1,0 +1,8 @@
+{
+    "values": [
+        "weapons:flashlight/give",
+        "weapons:spirit_box/give",
+        "weapons:radio/give",
+        "weapons:polaroid/give"
+    ]
+}

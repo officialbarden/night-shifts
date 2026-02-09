@@ -1,0 +1,10 @@
+{
+    "values": [
+        "weapons:fire_extinguisher/unequip",
+        "weapons:broom/unequip",
+        "weapons:radio/unequip",
+        "weapons:spirit_box/unequip",
+        "weapons:polaroid/unequip",
+        "weapons:flashlight/unequip"
+    ]
+}

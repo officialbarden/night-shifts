@@ -1,0 +1,19 @@
+{
+    "criteria": {
+        "player_hit": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "predicates": {
+                        "minecraft:custom_data": {
+                            "weapon": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "weapons:global/use"
+    }
+}

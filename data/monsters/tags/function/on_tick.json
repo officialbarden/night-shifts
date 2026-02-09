@@ -1,0 +1,8 @@
+{
+    "values": [
+        "monsters:entity/mist_monster/global/tick",
+        "monsters:entity/the_butcher/global/tick",
+        "monsters:entity/xander/global/tick"
+
+    ]
+}

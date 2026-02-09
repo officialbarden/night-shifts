@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"animated_java:hands_tools_flashlight/on_load",
+		"animated_java:hands_tools_polaroid/on_load",
+		"animated_java:hands_tools_radio/on_load",
+		"animated_java:hands_tools_spiritbox/on_load",
+		"animated_java:hands_weapons_fireextinguisher/on_load",
+		"animated_java:player_hazmat_animated/on_load",
+		"animated_java:the_butcher/on_load",
+		"animated_java:xander/on_load"
+	]
+}

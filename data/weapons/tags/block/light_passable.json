@@ -1,0 +1,16 @@
+{
+    "values": [
+        "#air",
+        "barrier",
+        "light",
+        "glass_pane",
+        "iron_bars",
+        "iron_door",
+        "#fence_gates",
+        "yellow_stained_glass_pane",
+        "#fences",
+        "minecraft:glass",
+        "minecraft:light_gray_stained_glass_pane",
+        "minecraft:gray_stained_glass_pane"
+    ]
+}
