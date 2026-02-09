@@ -1,6 +1,5 @@
 {
     "values": [
-        "monsters:entity/mist_monster/global/load",
-        "monsters:entity/the_butcher/global/load"
+        "monsters:entity/mist_monster/global/load"
     ]
 }

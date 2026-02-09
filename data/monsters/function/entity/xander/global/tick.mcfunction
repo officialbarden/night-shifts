@@ -1,1 +1,0 @@
-execute as @e[tag=xander.entity.model] at @s facing entity @p eyes rotated ~ 0 run rotate @s ~ ~

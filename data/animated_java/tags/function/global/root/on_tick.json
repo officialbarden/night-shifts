@@ -8,7 +8,6 @@
 		"animated_java:hands_weapons_broom/root/on_tick",
 		"animated_java:hands_weapons_fireextinguisher/root/on_tick",
 		"animated_java:player_hazmat_animated/root/on_tick",
-		"animated_java:the_butcher/root/on_tick",
-		"animated_java:xander/root/on_tick"
+		"animated_java:player_hazmat/root/on_tick"
 	]
 }

@@ -1,4 +1,4 @@
 {
 	"replace": false,
-	"values": ["#monsters:on_tick", "game:global/tick", "monsters:global/tick", "weapons:global/tick", "animated_java:global/on_tick"]
+	"values": ["#monsters:on_tick", "game:global/tick", "monsters:global/tick", "weapons:global/tick", "player_hazmat:global/tick", "animated_java:global/on_tick"]
 }
