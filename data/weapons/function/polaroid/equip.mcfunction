@@ -1,5 +1,8 @@
 #> Unequip
 function weapons:polaroid/unequip
+attribute @s block_interaction_range base set 0
+attribute @s entity_interaction_range base set 0
+
 
 # Summon + ID System
 execute as @s[tag=player_slim] rotated ~ 0 run function animated_java:hands_tools_polaroid/summon {args:{'variant':'slim'}}

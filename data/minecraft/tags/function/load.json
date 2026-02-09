@@ -6,7 +6,7 @@
 		"animated_java:global/on_load",
 		"game:global/load",
 		"monsters:global/load",
-		"weapons:global/load",
-		"player_hazmat:global/load"
+		"player_hazmat:global/load",
+		"weapons:global/load"
 	]
 }

@@ -1,1 +1,0 @@
-execute as @s[tag=aj.the_nun.root] run function animated_java:the_nun/animations/idle/play
