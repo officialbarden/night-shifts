@@ -9,6 +9,7 @@
 		"player_hazmat:global/load",
 		"weapons:global/load",
 		"lsp:init",
-		"tl:init"
+		"tl:init",
+		"player:global/load"
 	]
 }

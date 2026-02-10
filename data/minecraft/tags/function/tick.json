@@ -8,6 +8,7 @@
 		"weapons:global/tick",
 		"lsp:loop",
 		"tl:loop",
+		"player:global/tick",
 		"animated_java:global/on_tick"
 	]
 }
