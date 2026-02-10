@@ -11,6 +11,6 @@ scoreboard players operation @n[tag=player_hazmat.new] player_hazmat.ID = .globa
 scoreboard players add .global player_hazmat.ID 1
 #loot replace entity @n[tag=aj.player_hazmat.node.player_head] contents loot player_hazmat:player/head
 
-
+effect give @s minecraft:invisibility infinite 255 true
 #> Remove Redundant Tags
 tag @e[tag=player_hazmat.new] remove player_hazmat.new

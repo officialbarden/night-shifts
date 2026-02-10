@@ -3,7 +3,7 @@ execute if items entity @s weapon.offhand poisonous_potato[custom_data~{weapon:T
 
 function weapons:zprivate/unequip
 execute if score @s tools.radio.light matches 1.. run function weapons:zprivate/light/radio/main
-execute if score @s tools.spirit_box.light matches 1.. run function weapons:zprivate/light/spirit_box/main
+#execute if score @s tools.spirit_box.light matches 1.. run function weapons:zprivate/light/spirit_box/main
 function weapons:zprivate/equip
 
 

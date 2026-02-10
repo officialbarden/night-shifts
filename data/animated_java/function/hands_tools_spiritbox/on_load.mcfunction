@@ -2,3 +2,4 @@
 data modify storage animated_java:hands_tools_spiritbox rig_hash set value 'ff6092c3ab358f7e567072ab5759da3aa9dea65144446c18ee55cb29bd0e1c5b'
 scoreboard objectives add aj.equip.frame dummy
 scoreboard objectives add aj.ambient.frame dummy
+scoreboard objectives add aj.off.frame dummy

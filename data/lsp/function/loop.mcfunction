@@ -3,4 +3,4 @@ execute store result storage lsp:macro stamina.high float 0.01 run scoreboard pl
 execute store result storage lsp:macro stamina.low float 0.01 run scoreboard players get unsprintable.speed lsp.Values
 
 #> indicator
-execute as @a[scores={lsp.stamina=0..399}] run function lsp:staminabar
+execute as @a[scores={lsp.stamina=0..249}] run function lsp:staminabar

@@ -1,0 +1,1 @@
+execute if entity @s[scores={spirit_box.TOGGLE=1..}] if items entity @s weapon.mainhand *[custom_data~{weapon:1b, weapon_id:4}] run scoreboard players operation @s sound.add += RadioNoise sound.Values

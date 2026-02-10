@@ -8,3 +8,4 @@ scoreboard players set #restoring sound.Values 5
 scoreboard players set walking sound.Values 10
 scoreboard players set sprinting sound.Values 20
 scoreboard players set action sound.Values 40
+scoreboard players set RadioNoise sound.Values 50

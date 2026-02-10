@@ -5,3 +5,5 @@ $data merge entity $(bone_group) {transformation: [-0.9063f,0f,0.4226f,-0.1199f,
 $data merge entity $(bone_antenna) {transformation: [-0.9063f,0f,0.4226f,-0.3127f,0f,1f,0f,-0.5382f,-0.4226f,0f,-0.9063f,0.7695f,0f,0f,0f,1f],start_interpolation: 0,interpolation_duration: 1}
 $data merge entity $(bone_spirit_box) {transformation: [-0.9063f,0f,0.4226f,-0.25f,0f,1f,0f,-0.7813f,-0.4226f,0f,-0.9063f,0.8125f,0f,0f,0f,1f],start_interpolation: 0,interpolation_duration: 1}
 $data merge entity $(bone_right_arm) {transformation: [-1f,0f,0f,-0.25f,0f,0f,-1f,-0.9062f,0f,-1f,0f,0.1562f,0f,0f,0f,1f],start_interpolation: 0,interpolation_duration: 1}
+$data merge entity $(bone_left_arm) {transformation: [0f,0f,0f,0.25f,0f,0f,0f,-0.9062f,0f,0f,0f,0.1563f,0f,0f,0f,1f],start_interpolation: 0,interpolation_duration: 1}
+execute on vehicle unless entity @s[tag=aj.transforms_only] at @s run function animated_java:hands_tools_spiritbox/animations/off/zzz/frames/0_root_function

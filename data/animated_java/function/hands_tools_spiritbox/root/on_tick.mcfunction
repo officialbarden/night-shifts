@@ -2,4 +2,5 @@
 execute unless entity @s[tag=aj.hands_tools_spiritbox.root] run return 0
 execute if entity @s[tag=aj.hands_tools_spiritbox.animation.equip.playing] run function animated_java:hands_tools_spiritbox/animations/equip/zzz/on_tick
 execute if entity @s[tag=aj.hands_tools_spiritbox.animation.ambient.playing] run function animated_java:hands_tools_spiritbox/animations/ambient/zzz/on_tick
+execute if entity @s[tag=aj.hands_tools_spiritbox.animation.off.playing] run function animated_java:hands_tools_spiritbox/animations/off/zzz/on_tick
 execute on passengers run rotate @s ~ ~

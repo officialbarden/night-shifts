@@ -10,7 +10,7 @@ scoreboard players operation .staminaMAX tempmath = stamina lsp.Values
 execute store result score .staminaRATIO tempmath run scoreboard players operation .stamina tempmath /= .staminaMAX tempmath
 
 # // #A80600 color for shaky
-execute if score .staminaRATIO tempmath matches ..25 run title @s title {"text":"Low Stamina!", "color":"#A80600", "shadow_color":0, "font":"nsmaze"}
+execute if score .staminaRATIO tempmath matches ..25 run title @s actionbar {"text":"Low Stamina!", "color":"#ffff5a", "shadow_color":0, "font":"nsmaze_notification"}
 
 return fail
 execute if score .staminaRATIO tempmath matches 99 run title @s actionbar [{"text":"\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b\u258b"}]

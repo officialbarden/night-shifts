@@ -10,6 +10,8 @@ scoreboard players set weapon.view.mode weapon.config 2
 scoreboard objectives add tools.radio.light dummy
 scoreboard objectives add tools.spirit_box.light dummy
 
+scoreboard objectives add spirit_box.TOGGLE dummy
+
 scoreboard objectives add flashlight.raycast.limit dummy
 scoreboard objectives add flashlight.ID dummy
 scoreboard players add .global flashlight.ID 1

@@ -3,12 +3,12 @@
 	"values": [
 		"#monsters:on_tick",
 		"game:global/tick",
+		"lsp:loop",
 		"monsters:global/tick",
 		"player_hazmat:global/tick",
-		"weapons:global/tick",
-		"lsp:loop",
-		"tl:loop",
 		"player:global/tick",
+		"tl:loop",
+		"weapons:global/tick",
 		"animated_java:global/on_tick"
 	]
 }
