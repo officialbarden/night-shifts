@@ -9,9 +9,6 @@ data modify entity @s data.uuids_by_name.bone_right_arm_hazmat set from storage 
 execute on vehicle on passengers if entity @s[tag=aj.player_hazmat.node.left_arm_hazmat] run function animated_java:global/gu/get_entity_uuid_string
 data modify entity @s data.uuids append from storage animated_java:gu out
 data modify entity @s data.uuids_by_name.bone_left_arm_hazmat set from storage animated_java:gu out
-execute on vehicle on passengers if entity @s[tag=aj.player_hazmat.node.player_head] run function animated_java:global/gu/get_entity_uuid_string
-data modify entity @s data.uuids append from storage animated_java:gu out
-data modify entity @s data.uuids_by_name.bone_player_head set from storage animated_java:gu out
 execute on vehicle on passengers if entity @s[tag=aj.player_hazmat.node.head] run function animated_java:global/gu/get_entity_uuid_string
 data modify entity @s data.uuids append from storage animated_java:gu out
 data modify entity @s data.uuids_by_name.bone_head set from storage animated_java:gu out
