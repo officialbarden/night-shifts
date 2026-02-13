@@ -4,6 +4,7 @@
 
 scoreboard objectives add weapon.config dummy
 # 1-> tp, 2-> ride
+execute unless score weapon.animated weapon.config matches -2147483648..2147483647 run scoreboard players set weapon.animated weapon.config 1
 scoreboard players set weapon.view.mode weapon.config 2
 
 

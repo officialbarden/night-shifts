@@ -1,10 +1,8 @@
 {
 	"replace": false,
 	"values": [
-		"#monsters:on_tick",
 		"game:global/tick",
 		"lsp:loop",
-		"monsters:global/tick",
 		"player_hazmat:global/tick",
 		"player:global/tick",
 		"tl:loop",

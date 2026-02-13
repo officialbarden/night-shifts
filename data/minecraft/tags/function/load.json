@@ -1,12 +1,10 @@
 {
 	"replace": false,
 	"values": [
-		"#monsters:on_load",
 		"animated_java:global/internal/gu/load",
 		"animated_java:global/on_load",
 		"game:global/load",
 		"lsp:init",
-		"monsters:global/load",
 		"player_hazmat:global/load",
 		"player:global/load",
 		"tl:init",

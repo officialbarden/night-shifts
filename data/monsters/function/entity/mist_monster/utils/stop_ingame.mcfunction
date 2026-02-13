@@ -1,1 +1,0 @@
-function monsters:entity/mist_monster/zprivate/state/3/set
